@@ -1,0 +1,6 @@
+D:\BootStrap Theme Development\BooStrapThemeDevelopment\BooStrapThemeDevelopment\bin\BooStrapThemeDevelopment.dll.config
+D:\BootStrap Theme Development\BooStrapThemeDevelopment\BooStrapThemeDevelopment\bin\BooStrapThemeDevelopment.dll
+D:\BootStrap Theme Development\BooStrapThemeDevelopment\BooStrapThemeDevelopment\bin\BooStrapThemeDevelopment.pdb
+D:\BootStrap Theme Development\BooStrapThemeDevelopment\BooStrapThemeDevelopment\obj\Debug\BooStrapThemeDevelopment.csprojResolveAssemblyReference.cache
+D:\BootStrap Theme Development\BooStrapThemeDevelopment\BooStrapThemeDevelopment\obj\Debug\BooStrapThemeDevelopment.dll
+D:\BootStrap Theme Development\BooStrapThemeDevelopment\BooStrapThemeDevelopment\obj\Debug\BooStrapThemeDevelopment.pdb
